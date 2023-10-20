@@ -1,8 +1,6 @@
 
 # stepik-id-printer (h1)
 
-![Jusan Logo](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
-
 Здесь только скрипт который дает мой ID на *образовательной платформе* `stepik.org`.
 
 ## Возможности (h2)
@@ -61,7 +59,7 @@ int main () {
 
 ## Username.sh
 
-username.sh выводит имя и фамилию. 
+username.sh скрипт выводит имя и фамилию. 
 Запуск:
 
 ```
