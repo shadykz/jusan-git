@@ -61,7 +61,8 @@ int main () {
 
 ## Username.sh
 
-Скрипт username.sh выводит имя и фамилию. Запуск:
+username.sh выводит имя и фамилию. 
+Запуск:
 
 ```
 bash ./username.sh
