@@ -1,5 +1,5 @@
 
-# stepik-id-printer (h1)
+# stepik-id-printer  (h1)
 
 Здесь только скрипт который дает мой ID на *образовательной платформе* `stepik.org`.
 
@@ -58,10 +58,3 @@ int main () {
 | Telegram | [**Ссылка**](https://t.me/yernoor) | 5 минут |
 
 ## Username.sh
-
-username.sh скрипт выводит имя и фамилию. 
-Запуск:
-
-```
-bash ./username.sh
-```
